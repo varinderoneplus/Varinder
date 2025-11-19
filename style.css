@@ -53,3 +53,13 @@
   font-weight: 700;
   font-style: italic;
 }
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Josefin';
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+p {
+    font-family: 'Josefin';
+    line-height: 1.4;
+    margin-bottom: 12px;
+}
